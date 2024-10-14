@@ -9,4 +9,4 @@ $replace = str_replace($probil1, $probil3, $text);
 
 $replace1 = str_replace($probil2, $probil3, $replace);
 
-print_r($replace1);
+print_r($replace1aa);
